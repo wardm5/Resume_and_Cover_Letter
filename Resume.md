@@ -1,13 +1,3 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-
-Title: Johnny Appleseed Resume  
-CSS: resume.css  
-
 # Johnny Appleseed
 ## Missionary and Gardener
 ### [johnny@apple.com][email] &bull; [apple.com][site] &bull; (800) MY‑APPLE &bull; Cupertino, CA
