@@ -1,3 +1,12 @@
+// resets
+s { font-style: normal; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
+
 Title: Johnny Appleseed Resume  
 CSS: resume.css  
 
@@ -33,4 +42,5 @@ According to Harper's New Monthly Magazine, toward the end of his career, he was
 Wilkes-Barre area<br/>
 Practicied nurseryman craft, late 1790s
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+~~This is green~~
+_this is blue_
