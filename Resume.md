@@ -32,3 +32,5 @@ According to Harper's New Monthly Magazine, toward the end of his career, he was
 ## Education
 Wilkes-Barre area<br/>
 Practicied nurseryman craft, late 1790s
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
