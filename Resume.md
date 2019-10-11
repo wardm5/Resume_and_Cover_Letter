@@ -29,5 +29,10 @@ According to Harper's New Monthly Magazine, toward the end of his career, he was
 ## Education
 Wilkes-Barre area<br/>
 Practicied nurseryman craft, late 1790s
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
-<font color='red'>test blue color font</font>
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
