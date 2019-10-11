@@ -6,7 +6,7 @@
 	<link type="text/css" rel="stylesheet" href="resume.css"/>
 </head>
 <body>
-<center>This text will be center-aligned.</center>
+
 <h1 id="johnnyappleseed">Johnny Appleseed</h1>
 
 <h2 id="missionaryandgardener">Missionary and Gardener</h2>
@@ -14,7 +14,7 @@
 <h3 id="johnnyapple.comemailbullapple.comsitebull800 my‑applebullcupertinoca"><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x6a;&#x6f;&#110;&#x79;&#x40;&#x61;&#x70;&#112;&#108;&#101;&#46;&#99;&#111;&#109;" class="link">&#106;&#x6f;&#104;&#110;&#x6e;&#x79;&#x40;&#x61;&#112;&#x70;&#x6c;&#101;&#46;&#99;&#x6f;&#109;</a> &bull; <a href="http://apple.com/" class="link">apple.com</a> &bull; (800) MY‑APPLE &bull; Cupertino, CA</h3>
 
 <p><img src="johnny.jpg" alt="Photo of Johnny Appleseed" id="pic" style="float: right" /></p>
-
+<center>This text will be center-aligned.</center>
 <h2 id="summary">Summary</h2>
 
 <ul>
