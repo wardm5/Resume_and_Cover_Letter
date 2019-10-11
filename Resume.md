@@ -1,46 +1,75 @@
-Here's our logo (hover to see the title text):
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-Reference-style: 
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@wardm5 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
 
-# Johnny Appleseed
-## Missionary and Gardener
-### [johnny@apple.com][email] &bull; [apple.com][site] &bull; (800) MY‑APPLE &bull; Cupertino, CA
+Code Issues 0 Pull requests 0 Projects 0 Wiki Security Pulse Community
+markdown-resume/index.html
+@Pretz Pretz Example page
+728f6e4 on Nov 5, 2015
+45 lines (29 sloc)  3.1 KB
+  
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Johnny Appleseed Resume</title>
+	<link type="text/css" rel="stylesheet" href="resume.css"/>
+</head>
+<body>
 
-[email]: mailto:jony@apple.com class=link
-[site]: http://apple.com/ class=link
+<h1 id="johnnyappleseed">Johnny Appleseed</h1>
 
- ![Photo of Johnny Appleseed][pic]
+<h2 id="missionaryandgardener">Missionary and Gardener</h2>
 
-[pic]: johnny.jpg style="float: right"
+<h3 id="johnnyapple.comemailbullapple.comsitebull800 my‑applebullcupertinoca"><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x6a;&#x6f;&#110;&#x79;&#x40;&#x61;&#x70;&#112;&#108;&#101;&#46;&#99;&#111;&#109;" class="link">&#106;&#x6f;&#104;&#110;&#x6e;&#x79;&#x40;&#x61;&#112;&#x70;&#x6c;&#101;&#46;&#99;&#x6f;&#109;</a> &bull; <a href="http://apple.com/" class="link">apple.com</a> &bull; (800) MY‑APPLE &bull; Cupertino, CA</h3>
 
-## Summary
- * John Chapman (September 26, 1774 – March 18, 1845), often called Johnny Appleseed, was an American pioneer nurseryman
- * Introduced apple trees to large parts of Pennsylvania, Ontario, Ohio, Indiana, and Illinois
- * Became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples
+<p><img src="johnny.jpg" alt="Photo of Johnny Appleseed" id="pic" style="float: right" /></p>
 
-## Technical Experience
+<h2 id="summary">Summary</h2>
 
-### Business plan
+<ul>
+<li>John Chapman (September 26, 1774 – March 18, 1845), often called Johnny Appleseed, was an American pioneer nurseryman</li>
+<li>Introduced apple trees to large parts of Pennsylvania, Ontario, Ohio, Indiana, and Illinois</li>
+<li>Became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples</li>
+</ul>
 
-The popular image is of Johnny Appleseed spreading apple seeds randomly, everywhere he went. In fact, he planted nurseries rather than orchards, built fences around them to protect them from livestock, left the nurseries in the care of a neighbor who sold trees on shares, and returned every year or two to tend the nursery. His first nursery was planted on the bank of Brokenstraw Creek, south of Warren, Pennsylvania. Next, he seems to have moved to Venango County along the shore of French Creek,[8] but many of these nurseries were located in the Mohican area of north-central Ohio. This area included the towns of Mansfield, Lisbon, Ohio, Lucas, Perrysville, and Loudonville.
+<h2 id="technicalexperience">Technical Experience</h2>
 
-### [Subsistence lifestyle][subsistence], 1774 - 1845
-#### Here's your primitive Christian!
-According to Harper's New Monthly Magazine, toward the end of his career, he was present when an itinerant missionary was exhorting an open-air congregation in Mansfield, Ohio. The sermon was long and severe on the topic of extravagance, because the pioneers were buying such indulgences as calico and imported tea. "Where now is there a man who, like the primitive Christians, is traveling to heaven barefooted and clad in coarse raiment?" the preacher repeatedly asked until Johnny Appleseed, his endurance worn out, walked up to the preacher, put his bare foot on the stump that had served as a podium, and said, "Here's your primitive Christian!" The flummoxed sermonizer dismissed the congregation.
+<h3 id="businessplan">Business plan</h3>
 
-[subsistence]: https://en.wikipedia.org/wiki/Johnny_Appleseed#Subsistence_lifestyle
+<p>The popular image is of Johnny Appleseed spreading apple seeds randomly, everywhere he went. In fact, he planted nurseries rather than orchards, built fences around them to protect them from livestock, left the nurseries in the care of a neighbor who sold trees on shares, and returned every year or two to tend the nursery. His first nursery was planted on the bank of Brokenstraw Creek, south of Warren, Pennsylvania. Next, he seems to have moved to Venango County along the shore of French Creek,[8] but many of these nurseries were located in the Mohican area of north-central Ohio. This area included the towns of Mansfield, Lisbon, Ohio, Lucas, Perrysville, and Loudonville.</p>
 
-## Education
-Wilkes-Barre area<br/>
-Practicied nurseryman craft, late 1790s
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+<h3 id="subsistencelifestylesubsistence1774-1845"><a href="https://en.wikipedia.org/wiki/Johnny_Appleseed#Subsistence_lifestyle">Subsistence lifestyle</a>, 1774 - 1845</h3>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+<h4 id="heresyourprimitivechristian">Here&#8217;s your primitive Christian!</h4>
+
+<p>According to Harper&#8217;s New Monthly Magazine, toward the end of his career, he was present when an itinerant missionary was exhorting an open-air congregation in Mansfield, Ohio. The sermon was long and severe on the topic of extravagance, because the pioneers were buying such indulgences as calico and imported tea. &#8220;Where now is there a man who, like the primitive Christians, is traveling to heaven barefooted and clad in coarse raiment?&#8221; the preacher repeatedly asked until Johnny Appleseed, his endurance worn out, walked up to the preacher, put his bare foot on the stump that had served as a podium, and said, &#8220;Here&#8217;s your primitive Christian!&#8221; The flummoxed sermonizer dismissed the congregation.</p>
+
+<h2 id="education">Education</h2>
+
+<p>Wilkes-Barre area<br/>
+Practicied nurseryman craft, late 1790s</p>
+
+</body>
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
