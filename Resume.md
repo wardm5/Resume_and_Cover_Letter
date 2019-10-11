@@ -6,7 +6,7 @@
 	<link type="text/css" rel="stylesheet" href="resume.css"/>
 </head>
 <body>
-
+<center>This text will be center-aligned.</center>
 <h1 id="johnnyappleseed">Johnny Appleseed</h1>
 
 <h2 id="missionaryandgardener">Missionary and Gardener</h2>
