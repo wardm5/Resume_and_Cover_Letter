@@ -21,15 +21,15 @@
 
 
 ## Relevant Work Experiance
-<pre><Strong>Mobile Software Engineer Intern, T-Mobile                               October 2018 - June 2019</Strong></pre>
-***iOS Development for the T-Mobile Tuesday Application***
-* Updated frontend features on the T-Mobile Tuesdays iOS app using Swift enhancing end user experience 
-* Created an iOS application, utilizing OO principles and internal login APIs for future A/B testing playground 
-* Used and worked in collaborative environment using Agile/Scrum methodology
-* Refactored code weekly in order to make algorithms more efficient and reduce technical debt
-* Utilized BitBucket to add software updates to the main code source each week
-* Research various topics including A/B testing and architectures for mobile apps (Viper, MVC)
-
+<pre><Strong>Mobile Software Engineer Intern, T-Mobile                               October 2018 - June 2019</Strong>
+<Strong>iOS Development for the T-Mobile Tuesday Application</Strong>
+<li>Updated frontend features on the T-Mobile Tuesdays iOS app using Swift enhancing end user experience   </li>
+<li>Created an iOS application, utilizing OO principles and internal login APIs for future A/B testing playground </li>
+<li>Used and worked in collaborative environment using Agile/Scrum methodology  </li>
+<li>Refactored code weekly in order to make algorithms more efficient and reduce technical debt   </li>
+<li>Utilized BitBucket to add software updates to the main code source each week  </li>
+<li>Research various topics including A/B testing and architectures for mobile apps (Viper, MVC)  </li>
+</pre>
 
 
 ## Academic Projects
