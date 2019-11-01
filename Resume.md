@@ -39,21 +39,21 @@ June 2019 December 2013
 <li>Presented final quiz application to class detailing website architecture (MVC + cloud products used)  </li>
 <br></br>
 <pre><Strong>Weather Application, Cloud Computing</Strong> - Java                                            <Strong>Fall 2018</Strong></pre>
-<li>Programmed Java application retrieving 3rd party API data to format and display for users
-<li>Created server that made HTTP requests to fetch weather data given a city parameter
-<li>Converted data from JSON to custom Java model and displayed formatted data to user
-<li>Tested and debugged various edge cases to ensure proper user input and output
+<li>Programmed Java application retrieving 3rd party API data to format and display for users  </li>
+<li>Created server that made HTTP requests to fetch weather data given a city parameter  </li>
+<li>Converted data from JSON to custom Java model and displayed formatted data to user  </li>
+<li>Tested and debugged various edge cases to ensure proper user input and output  </li>
 <br></br>
 <pre><Strong>Wine Classification, Machine Learning</Strong> - Python                                      <Strong>Summer 2018</Strong></pre>
-<li>Classified wine using Python into three categories using 10 machine learning algorithms
-<li>Researched and tested machine learning techniques on the UC Irvine Red Wine Dataset
-<li>Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks
-<li>Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels
-<li>Wrote and presented final report to class describing algorithms, research methodology, and results
+<li>Classified wine using Python into three categories using 10 machine learning algorithms  </li>
+<li>Researched and tested machine learning techniques on the UC Irvine Red Wine Dataset  </li>
+<li>Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks  </li>
+<li>Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels  </li>
+<li>Wrote and presented final report to class describing algorithms, research methodology, and results  </li>
 <br></br>
 ### Additional Experiance
 <pre>
-<Strong>Procurement Financial Analyst II, ​Boeing                                      October 2015 - May 2017 </Strong>
+<Strong>Procurement Financial Analyst II, ​Boeing                                       October 2015 - May 2017 </Strong>
 <Strong>Treasury Analyst, Amazon.com                                              December 2013 - October 2015 </Strong>
 </pre>
 
