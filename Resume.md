@@ -1,6 +1,6 @@
 ## Misha Ward
 <pre>
-206.981.7777   linkedin.com/in/mishaward   wardm5@uw.edu   github.com/wardm5
+<center>206.981.7777   linkedin.com/in/mishaward   wardm5@uw.edu   github.com/wardm5</center>
 </pre>
 
 ### Technical Skills
