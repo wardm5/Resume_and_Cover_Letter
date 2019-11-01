@@ -1,8 +1,8 @@
 # Misha Ward
-### Phone:      206.981.7777   
-### LinkedIn:   linkedin.com/in/mishaward  
-### Email:      wardm5@uw.edu    
-### GitHub:     github.com/wardm5
+ Phone:   >    206.981.7777   
+ LinkedIn: >   linkedin.com/in/mishaward  
+ Email:   >    wardm5@uw.edu    
+ GitHub: >     github.com/wardm5
 
 ## Technical Skills
 ***Programming:***  > Java,  Python, C++, SQL, C#, Swift
