@@ -47,16 +47,15 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Converted data from JSON to custom Java model and displayed formatted data to user
 <li>Tested and debugged various edge cases to ensure proper user input and output
 
-<pre><Strong>Wine Classification, Machine Learning</Strong> - Python                                        <Strong>Summer 2018</Strong></pre>
-▪ Classified wine using Python into three categories using 10 machine learning algorithms
-▪ Researched and tested machine learning techniques on the UC Irvine Red Wine Dataset
-▪ Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks
-▪ Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels ▪ Wrote and presented final report to class describing algorithms, research methodology, and results
+<pre><Strong>Wine Classification, Machine Learning</Strong> - Python                                      <Strong>Summer 2018</Strong></pre>
+<li>Classified wine using Python into three categories using 10 machine learning algorithms
+<li>Researched and tested machine learning techniques on the UC Irvine Red Wine Dataset
+<li>Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks
+<li>Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels
+<li>Wrote and presented final report to class describing algorithms, research methodology, and results
 
 ## Additional Experiance
 Procurement Financial Analyst II, ​Boeing October 2015 - May 2017 
 Treasury Analyst, ​Amazon.com December 2013 - October 2015
-
-
 
 ***Fun Fact:*** I make a mean bowl of Kraft original Mac N Cheese!
