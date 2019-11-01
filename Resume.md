@@ -41,11 +41,11 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Developed custom REST API to display user's quiz results to users  </li>
 <li>Presented final quiz application to class detailing website architecture (MVC + cloud products used)  </li>
 
-
-Weather Application, Cloud Computing​ - Java
-▪ Programmed Java application retrieving 3rd party API data to format and display for users ▪ Created server that made HTTP requests to fetch weather data given a city parameter
-▪ Converted data from JSON to custom Java model and displayed formatted data to user
-▪ Tested and debugged various edge cases to ensure proper user input and output
+<pre><Strong>Weather Application, Cloud Computing</Strong> - Java                           <Strong>Fall 2018</Strong></pre>
+<li>Programmed Java application retrieving 3rd party API data to format and display for users
+<li>Created server that made HTTP requests to fetch weather data given a city parameter
+<li>Converted data from JSON to custom Java model and displayed formatted data to user
+<li>Tested and debugged various edge cases to ensure proper user input and output
 
 Wine Classification, ​Machine Learning​ - Python
 ▪ Classified wine using Python into three categories using 10 machine learning algorithms
