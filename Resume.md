@@ -21,7 +21,7 @@
 
 
 ## Relevant Work Experiance
-<pre><Strong>Mobile Software Engineer Intern, T-Mobile                                       October 2018 - June 2019</Strong></pre>
+<pre><Strong>Mobile Software Engineer Intern, T-Mobile                                 October 2018 - June 2019</Strong></pre>
 <Strong>iOS Development for the T-Mobile Tuesday Application</Strong>
 <li>Updated frontend features on the T-Mobile Tuesdays iOS app using Swift enhancing end user experience   </li>
 <li>Created an iOS application, utilizing OO principles and internal login APIs for future A/B testing playground </li>
