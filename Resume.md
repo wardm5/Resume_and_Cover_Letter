@@ -53,8 +53,8 @@ June 2019 December 2013
 
 <h3>Additional Experiance</h3>
 <pre>
-<Strong>Procurement Financial Analyst II, Boeing                                       October 2015 - May 2017 </Strong>
-<Strong>Treasury Analyst, Amazon.com                                              December 2013 - October 2015 </Strong>
+<Strong>Procurement Financial Analyst II, Boeing                                      October 2015 - May 2017 </Strong>
+<Strong>Treasury Analyst, Amazon.com                                             December 2013 - October 2015 </Strong>
 </pre>
 
 ***Fun Fact:*** I make a mean bowl of Kraft original Mac N Cheese!
