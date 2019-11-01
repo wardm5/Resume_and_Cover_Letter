@@ -33,7 +33,7 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Research various topics including A/B testing and architectures for mobile apps (Viper, MVC)  </li>
 
 ## Academic Projects
-<pre><Strong>Quiz Application, Cloud Computing</Strong> - C#, Javascript, CSS/HTML                      <Strong>Fall 2018</Strong></pre>
+<pre><Strong>Quiz Application, Cloud Computing</Strong> - C#, Javascript, CSS/HTML                           <Strong>Fall 2018</Strong></pre>
 <li>Built a C# full stack app for users to play a quiz game with a group of 3 for people to use online  </li>
 <li>Implemented the front end layer using Javascript/ASP.NET framework providing a dynamic user experience  </li>
 <li>Developed C# service layer that fetched, inserted data into database, and retrieved quiz API data for users  </li>
