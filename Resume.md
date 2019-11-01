@@ -1,4 +1,4 @@
-### Misha Ward
+## Misha Ward
 <pre>
 <strong> Phone: </strong>      206.981.7777
 <strong> LinkedIn: </strong>   linkedin.com/in/mishaward  
@@ -6,7 +6,7 @@
 <strong> GitHub: </strong>     github.com/wardm5
 </pre>
 
-#### Technical Skills
+### Technical Skills
 <pre>
 <strong>Programming: </strong>          Java,  Python, C++, SQL, C#, Swift
 <strong>Operating Systems: </strong>    Linux, Windows, Unix
@@ -14,7 +14,7 @@
 <strong>Design: </strong>               JSON, REST APIs, HTML, CSS, JavaScript
 </pre>
 
-#### Education
+### Education
 University of Washington, Bothell WA
 Bachelors of Science, ​Computer Science ​- ​ 3.64/4.0 GPA
 Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
@@ -22,7 +22,7 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 ▪ Graduated Cum Laude, Dean's List, Annual Dean's List
 ▪ Elected Chair of the Student Technology Fee Committee ​tasked with allocating $400,000 of student fees
 
-#### Relevant Work Experiance
+### Relevant Work Experiance
 <pre><Strong>Mobile Software Engineer Intern, T-Mobile                                    October 2018 - June 2019</Strong></pre>
 <Strong>iOS Development for the T-Mobile Tuesday Application</Strong>
 <li>Updated frontend features on the T-Mobile Tuesdays iOS app using Swift enhancing end user experience   </li>
@@ -32,7 +32,7 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Utilized BitBucket to add software updates to the main code source each week  </li>
 <li>Research various topics including A/B testing and architectures for mobile apps (Viper, MVC)  </li>
 
-#### Academic Projects
+### Academic Projects
 <pre><Strong>Quiz Application, Cloud Computing</Strong> - C#, Javascript, CSS/HTML                           <Strong>Fall 2018</Strong></pre>
 <li>Built a C# full stack app for users to play a quiz game with a group of 3 for people to use online  </li>
 <li>Implemented the front end layer using Javascript/ASP.NET framework providing a dynamic user experience  </li>
@@ -54,7 +54,7 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels
 <li>Wrote and presented final report to class describing algorithms, research methodology, and results
 
-#### Additional Experiance
+### Additional Experiance
 Procurement Financial Analyst II, ​Boeing October 2015 - May 2017 
 Treasury Analyst, ​Amazon.com December 2013 - October 2015
 
