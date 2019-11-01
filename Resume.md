@@ -5,9 +5,9 @@
 ### GitHub:     github.com/wardm5
 
 ## Technical Skills
-*Programming:* Java,  Python, C++, SQL, C#, Swift
-*Operating Systems:*  Linux, Windows, Unix
-*Cloud Services:*     AWS - S3, DynamoDB, EC2 | Azure - Cosmos DB, Blob Storage Web *Design:*             JSON, REST APIs, HTML, CSS, JavaScript
+***Programming:***  > Java,  Python, C++, SQL, C#, Swift
+***Operating Systems:***  >  Linux, Windows, Unix
+***Cloud Services:***  > AWS - S3, DynamoDB, EC2 | Azure - Cosmos DB, Blob Storage Web ***Design:***  >    JSON, REST APIs, HTML, CSS, JavaScript
 
 ## Technical Experience
 
