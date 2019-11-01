@@ -1,4 +1,5 @@
 # Misha Ward
+<h1><center>Misha Ward</center></h1>
 <pre>
 <strong> Phone: </strong>   206.981.7777
 <strong> LinkedIn: </strong>   linkedin.com/in/mishaward  
