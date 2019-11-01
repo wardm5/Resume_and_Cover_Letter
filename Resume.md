@@ -18,11 +18,8 @@
 <Strong><em>Bachelors of Arts, Business Administration, Finance</em></Strong> - 3.74/4.0 GPA                      <Strong>December 2013</Strong>
 
 </pre>
-Bachelors of Science, ​Computer Science ​- 3.64/4.0 GPA
-Bachelors of Arts​, ​Business Administration, Finance ​- 3.74/4.0 GPA
-June 2019 December 2013
-▪ Graduated Cum Laude, Dean's List, Annual Dean's List
-▪ Elected Chair of the Student Technology Fee Committee ​tasked with allocating $400,000 of student fees
+<li>Graduated Cum Laude, Dean's List, Annual Dean's List   </li>
+<li>Elected Chair of the Student Technology Fee Committee ​tasked with allocating $400,000 of student fees   </li>
 
 ### Relevant Work Experiance
 <pre><Strong>Mobile Software Engineer Intern, T-Mobile                                    October 2018 - June 2019</Strong></pre>
