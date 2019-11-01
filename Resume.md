@@ -14,7 +14,7 @@
 ### Education
 ***University of Washington, Bothell WA***
 <pre>
-<Strong><em>Bachelors of Science, Computer Science</em></Strong>                                    October 2018 - June 2019</Strong>
+<Strong><em>Bachelors of Science, Computer Science</em></Strong>                                        October 2018 - June 2019</Strong>
 <Strong><em>Bachelors of Arts, Business Administration, Finance</em></Strong>                                    October 2018 - June 2019</Strong>
 
 </pre>
