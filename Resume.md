@@ -30,7 +30,7 @@ June 2019 December 2013
 <li>Research various topics including A/B testing and architectures for mobile apps (Viper, MVC)  </li>
 
 ### Academic Projects
-<pre><Strong>Quiz Application, Cloud Computing</Strong> - C#, Javascript, CSS/HTML                                 <Strong>Fall 2018</Strong></pre>
+<pre><Strong>Quiz Application, Cloud Computing</Strong> - C#, Javascript, CSS/HTML                                <Strong>Fall 2018</Strong></pre>
 <li>Built a C# full stack app for users to play a quiz game with a group of 3 for people to use online  </li>
 <li>Implemented the front end layer using Javascript/ASP.NET framework providing a dynamic user experience  </li>
 <li>Developed C# service layer that fetched, inserted data into database, and retrieved quiz API data for users  </li>
@@ -38,7 +38,7 @@ June 2019 December 2013
 <li>Developed custom REST API to display user's quiz results to users  </li>
 <li>Presented final quiz application to class detailing website architecture (MVC + cloud products used)  </li>
 
-<pre><Strong>Weather Application, Cloud Computing</Strong> - Java                                                  <Strong>Fall 2018</Strong></pre>
+<pre><Strong>Weather Application, Cloud Computing</Strong> - Java                                                 <Strong>Fall 2018</Strong></pre>
 <li>Programmed Java application retrieving 3rd party API data to format and display for users  </li>
 <li>Created server that made HTTP requests to fetch weather data given a city parameter  </li>
 <li>Converted data from JSON to custom Java model and displayed formatted data to user  </li>
