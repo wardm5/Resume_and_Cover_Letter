@@ -41,13 +41,13 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Developed custom REST API to display user's quiz results to users  </li>
 <li>Presented final quiz application to class detailing website architecture (MVC + cloud products used)  </li>
 
-<pre><Strong>Weather Application, Cloud Computing</Strong> - Java                           <Strong>Fall 2018</Strong></pre>
+<pre><Strong>Weather Application, Cloud Computing</Strong> - Java                                            <Strong>Fall 2018</Strong></pre>
 <li>Programmed Java application retrieving 3rd party API data to format and display for users
 <li>Created server that made HTTP requests to fetch weather data given a city parameter
 <li>Converted data from JSON to custom Java model and displayed formatted data to user
 <li>Tested and debugged various edge cases to ensure proper user input and output
 
-Wine Classification, ​Machine Learning​ - Python
+<pre><Strong>Wine Classification, Machine Learning</Strong> - Python                                        <Strong>Summer 2018</Strong></pre>
 ▪ Classified wine using Python into three categories using 10 machine learning algorithms
 ▪ Researched and tested machine learning techniques on the UC Irvine Red Wine Dataset
 ▪ Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks
