@@ -14,12 +14,12 @@
 ### Education
 ***University of Washington, Bothell WA***
 <pre>
-<Strong><em>Bachelors of Science, Computer Science</em>                                                      June 2019</Strong>
-<Strong><em>Bachelors of Arts, Business Administration, Finance</em>                                     December 2013</Strong>
+<Strong><em>Bachelors of Science, Computer Science</em> - 3.64/4.0 GPA                                             June 2019</Strong>
+<Strong><em>Bachelors of Arts, Business Administration, Finance</em> - 3.74/4.0 GPA                                    December 2013</Strong>
 
 </pre>
-Bachelors of Science, ​Computer Science ​- ​ 3.64/4.0 GPA
-Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
+Bachelors of Science, ​Computer Science ​- 3.64/4.0 GPA
+Bachelors of Arts​, ​Business Administration, Finance ​- 3.74/4.0 GPA
 June 2019 December 2013
 ▪ Graduated Cum Laude, Dean's List, Annual Dean's List
 ▪ Elected Chair of the Student Technology Fee Committee ​tasked with allocating $400,000 of student fees
