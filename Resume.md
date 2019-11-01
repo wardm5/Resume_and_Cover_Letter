@@ -14,8 +14,8 @@
 ### Education
 ***University of Washington, Bothell WA***
 <pre>
-<Strong><em>Bachelors of Science, Computer Science</em>                                                     June 2019</Strong>
-<Strong><em>Bachelors of Arts, Business Administration, Finance</em>                                    December 2013</Strong>
+<Strong><em>Bachelors of Science, Computer Science</em>                                                      June 2019</Strong>
+<Strong><em>Bachelors of Arts, Business Administration, Finance</em>                                     December 2013</Strong>
 
 </pre>
 Bachelors of Science, ​Computer Science ​- ​ 3.64/4.0 GPA
