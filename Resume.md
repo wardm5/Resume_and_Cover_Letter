@@ -50,9 +50,12 @@ Bachelors of Arts​, ​Business Administration, Finance ​- ​ 3.74/4.0 GPA
 <li>Included various models including K-Nearest Neighbor, Logistic Regression, and Neural Networks
 <li>Calculated average accuracy after 10-fold cross validation reached 99.3% using three classification labels
 <li>Wrote and presented final report to class describing algorithms, research methodology, and results
-
+<br></br>
 ### Additional Experiance
-Procurement Financial Analyst II, ​Boeing October 2015 - May 2017 
-Treasury Analyst, ​Amazon.com December 2013 - October 2015
+<pre><Strong>Procurement Financial Analyst II, ​Boeing                                      October 2015 - May 2017 </Strong></pre>
+<pre><Strong>Treasury Analyst, Amazon.com                                              December 2013 - October 2015 </Strong></pre>
+
+Procurement Financial Analyst II, Boeing October 2015 - May 2017 
+Treasury Analyst, Amazon.com December 2013 - October 2015
 
 ***Fun Fact:*** I make a mean bowl of Kraft original Mac N Cheese!
