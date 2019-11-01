@@ -1,5 +1,11 @@
 # Misha Ward
- Phone:   >    206.981.7777   
+<pre>
+<strong> Phone: </strong>   206.981.7777
+<strong> LinkedIn: </strong>   linkedin.com/in/mishaward  
+<strong> Email: </strong>   wardm5@uw.edu   
+<strong> GitHub: </strong>   github.com/wardm5
+</pre>
+ Phone:      
  LinkedIn: >   linkedin.com/in/mishaward  
  Email:   >    wardm5@uw.edu    
  GitHub: >     github.com/wardm5
