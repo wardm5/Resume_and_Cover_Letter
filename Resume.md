@@ -1,13 +1,14 @@
 # Misha Ward
 <pre>
-<strong> Phone: </strong>   206.981.7777
+<strong> Phone: </strong>      206.981.7777
 <strong> LinkedIn: </strong>   linkedin.com/in/mishaward  
-<strong> Email: </strong>   wardm5@uw.edu   
-<strong> GitHub: </strong>   github.com/wardm5
+<strong> Email: </strong>      wardm5@uw.edu   
+<strong> GitHub: </strong>     github.com/wardm5
 </pre>
 
 ## Technical Skills
-***Programming:***  > Java,  Python, C++, SQL, C#, Swift
+<pre>
+<strong>Programming: </strong> >    Java,  Python, C++, SQL, C#, Swift
 ***Operating Systems:***  >  Linux, Windows, Unix
 ***Cloud Services:***  > AWS - S3, DynamoDB, EC2 | Azure - Cosmos DB, Blob Storage Web ***Design:***  >    JSON, REST APIs, HTML, CSS, JavaScript
 
