@@ -1,13 +1,5 @@
 # Misha Ward
-## 
-### 206.981.7777   ​linkedin.com/in/mishaward​  wardm5@uw.edu    ​github.com/wardm5
-
-[email]: mailto:jony@apple.com class=link
-[site]: http://apple.com/ class=link
-
- ![Photo of Johnny Appleseed][pic]
-
-[pic]: johnny.jpg style="float: right"
+### 206.981.7777   linkedin.com/in/mishaward  wardm5@uw.edu    github.com/wardm5
 
 ## Summary
  * John Chapman (September 26, 1774 – March 18, 1845), often called Johnny Appleseed, was an American pioneer nurseryman
